@@ -5,7 +5,7 @@
 > [Zhaocheng Xu](https://github.com/messeyAmumu), Yan Tian, Lili Yang, Ling Ding, Ruili Wang<br>
 
 <p align="center">
-<img src="banner.png" width=60% height=60%
+<img src="banner.png" width=70% height=70%
 class="center">
 </p>
 
